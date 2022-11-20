@@ -1,0 +1,4 @@
+name: ExGreenBlock
+version: '1.0-SNAPSHOT'
+main: exgreenblock.exgreenblock.ExGreenBlock
+api-version: 1.19

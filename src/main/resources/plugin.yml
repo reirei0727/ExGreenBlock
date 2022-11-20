@@ -1,0 +1,4 @@
+name: ExGreenBlock
+version: '${project.version}'
+main: exgreenblock.exgreenblock.ExGreenBlock
+api-version: 1.19
